@@ -44,7 +44,7 @@ Magicae - игровая сборка магического направлен�
 
 ## Лицензирование и второстепенная информация
 
-![Количество модификаций](https://img.shields.io/badge/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B9-151%20\(159\)-green?style=flat-square)
+![Количество модификаций](https://img.shields.io/badge/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B9-152%20\(160\)-green?style=flat-square)
 ![Оптимизация](https://img.shields.io/badge/Оптимизация-A+-green?style=flat-square)
 ![Тяжесть](https://img.shields.io/badge/Тяжесть-50%-green?style=flat-square)
 
