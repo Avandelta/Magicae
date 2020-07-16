@@ -17,3 +17,8 @@
 ## 1.0.1b
 
 * Добавлена модификация RoguelikeDungeons
+
+## 1.0.1.1a
+
+* Добавлена модификация RoguelikeDungeons - Fnar Edition
+* Удалена старая версия модификации RoguelikeDungeons
