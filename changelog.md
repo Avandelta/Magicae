@@ -55,3 +55,7 @@
 ## 1.0.4.7b
 
 * Обновлены конфигурации Expanded Equivalence
+
+## 1.0.4.8
+
+* Добавлена настройка CustomSkinLoader
