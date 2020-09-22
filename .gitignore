@@ -27,6 +27,9 @@ crash-reports/
 craftpresence/
 .mixin.out/
 local/
+patchouli_books/
+journeymap/
+astralsorcery/
 
 # Runtime Data
 analytics.json.gz
