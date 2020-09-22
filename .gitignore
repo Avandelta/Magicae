@@ -21,12 +21,12 @@
 
 # Runtime Context
 config/acronym/saved
-saves
-logs
-crash-reports
-craftpresence
-.mixin.out
-local
+saves/
+logs/
+crash-reports/
+craftpresence/
+.mixin.out/
+local/
 
 # Runtime Data
 analytics.json.gz
