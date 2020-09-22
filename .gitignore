@@ -20,7 +20,7 @@
 *.rar
 
 # Runtime Context
-config/acronym/saved
+config/acronym/saved/
 saves/
 logs/
 crash-reports/
