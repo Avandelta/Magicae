@@ -23,7 +23,6 @@ config/acronym/saved/
 saves/
 logs/
 crash-reports/
-craftpresence/
 .mixin.out/
 local/
 patchouli_books/
