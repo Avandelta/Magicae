@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/Avandelta/Magicae?style=social) 
 ![Issues](https://img.shields.io/github/issues/Avandelta/Magicae?logo=github&style=social)
 
-Magicae is a pack filled to the brim of mods ranging from mana flowers and magic wands to different dimensions and alchemy to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
+Magicae is a pack filled to the brim of mods ranging in world of magic to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
 
 For more information on content distribution or copyright, see the dedicated file.
 
