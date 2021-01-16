@@ -1,3 +1,11 @@
+# Reference Policy
+
+Contributors don't claim to be authorship of any content they aren't involved with, if you would like your copyrighted content to be listed separately, please contact us through the organization.
+
+### Modifications
+
+Links to the websites below may be unavailable or archived: in this case, please inform contributors about this situation.
+
 - [AbyssalCraft Integration](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft-integration)
 - [AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft)
 - [The Aether II](https://www.curseforge.com/minecraft/mc-mods/the-aether-ii)
@@ -155,3 +163,9 @@
 - [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - [WorldEditCUI Forge Edition 3](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3)
+
+### Resource Packs
+
+Links to the websites below may be unavailable or archived: in this case, please inform contributors about this situation.
+
+- [Minecraft Font (PC)](https://www.curseforge.com/minecraft/texture-packs/minecraft-font-pc)
