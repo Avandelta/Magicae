@@ -2,8 +2,8 @@
   "path": "mod_mysticalagradditions/nether_star_plant.json",
   "enabled": true,
   "id": "mysticalagradditions:nether_star_plant",
-  "plant_name": "Nether Star Crop",
-  "seed_name": "Nether Star Seeds",
+  "plant_name": "Planta stella inferiore mundi",
+  "seed_name": "Semina stella inferiore mundi",
   "seed_items": [
     {
       "item": "mysticalagradditions:nether_star_seeds",
@@ -17,9 +17,12 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Nether Star Seeds."
-  },
+    "translations": {
+      "en_us": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it.",
+      "ru_ru": "Данный вид растений произрастает из особых семян, содержащих в себе элементарную материю, плодом же такого кустарника является особой формы эссенция, которая позволяет создавать ресурсы из неё."
+    },
+    "default": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it."
+  },	
   "growth_chance": 0.85,
   "growth_bonus": 0.02,
   "bonemeal": false,
