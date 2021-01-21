@@ -23,7 +23,7 @@ If you want to download the source, you can use GitHub CLI:
 
 `gh repo clone Avandelta/Magicae`
 
-If you want to download the release: follow this [tag](https://github.com/Avandelta/Magicae/releases/latest/download/72b13e15527a6cc1de141b455395d52f.zip).
+If you want to download the release: [see](https://github.com/Avandelta/Magicae/releases/latest).
 
 ## Contributing to Magicae
 
